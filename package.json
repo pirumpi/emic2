@@ -1,6 +1,6 @@
 {
   "name": "emic2",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Node API for Emic2 module TTS",
   "main": "./lib/emic2.js",
   "scripts": {
@@ -20,13 +20,12 @@
   "author": {
     "name": "Carlos Martin"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pirumpi/emic2/issues"
   },
   "homepage": "https://github.com/pirumpi/emic2",
   "gitHead": "a3b9706bd2aa123974930560ebd84b6298991ef1",
-  "readme": "ERROR: No README data found!",
   "_id": "emic2@0.0.1",
   "_shasum": "7b0f947075d008011047c3e2b3fe12706f80ff41",
   "_from": "emic2@"
