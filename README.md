@@ -9,7 +9,7 @@ npm install emic2
 ##Initiating module
 ```js
 var tessel = require('tessel');
-var emic2 = require('emic2').use(tessel.port['A']);
+var emic2 = require('emic2').use(tessel.port['D']);
 
 emic2.on('ready', function(){
     emic2.speak('Hello, this is Tessel, your new friend');
